@@ -5,7 +5,7 @@
 
 body {
     background-color: #5b209a;
-    background-image: url(images/bg-mobile.svg);
+    background-image: url(resources/images/bg-mobile.svg);
     background-repeat: no-repeat;
 }
 .wrapper{
@@ -86,7 +86,7 @@ body {
 @media only screen and (min-width: 768px) {
     body {
     background-color: #5b209a;
-    background-image: url(images/bg-desktop.svg);
+    background-image: url(resources/images/bg-desktop.svg);
     }
     .wrapper{
     width: 600px;
